@@ -1,5 +1,4 @@
-# Student Name: Yasser Kamel
-# Student Number: 1306180167
+# Created by : Mueyyed  
 # -------------
 # | 0 | 1 | 2 |
 # -------------
