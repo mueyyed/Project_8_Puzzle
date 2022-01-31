@@ -1,0 +1,11 @@
+Python version : 3.9 
+
+how to run it : 
+1- install [lastest version of python]  OR [INTELLIJI environment ]
+2- run the execution file "last.py "
+3-follow the instruction on the console screen 
+
+there are 3 choices : 
+1- create samples and store them in "samples.txt" 
+2- load and handle samples from "samples.txt"------store---> "outputs.txt"
+3- Examine a sample and get it solved by any method
